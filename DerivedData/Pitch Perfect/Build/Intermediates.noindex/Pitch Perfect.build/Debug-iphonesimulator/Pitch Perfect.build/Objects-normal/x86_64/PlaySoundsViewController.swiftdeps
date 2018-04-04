@@ -1,0 +1,765 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PlaySoundsViewController"
+provides-nominal:
+- "13Pitch_Perfect24PlaySoundsViewControllerC"
+- "13Pitch_Perfect24PlaySoundsViewControllerC10ButtonTypeO"
+provides-member:
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", ""]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC10ButtonTypeO", ""]
+provides-dynamic-lookup:
+- "chipmunkButton"
+- "darthVaderButton"
+- "didReceiveMemoryWarning"
+- "echoButton"
+- "playSoundForButton"
+- "rabbitButton"
+- "reverbButton"
+- "snailButton"
+- "stopButton"
+- "stopButtonPressed"
+- "viewDidLoad"
+- "viewWillAppear"
+depends-top-level:
+- "=="
+- "AVAudioEngine"
+- "AVAudioFile"
+- "AVAudioPlayerNode"
+- "AnyObject"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "Int"
+- "PlaySoundsViewController"
+- !private "StringLiteralType"
+- "Timer"
+- "UIButton"
+- "UIViewController"
+- "URL"
+- !private "print"
+- !private "~="
+depends-member:
+- !private ["So21AVAudioPlayerDelegateP", "ButtonType"]
+- !private ["So21AVAudioPlayerDelegateP", "chipmunkButton"]
+- !private ["So21AVAudioPlayerDelegateP", "configureUI"]
+- !private ["So21AVAudioPlayerDelegateP", "darthVaderButton"]
+- !private ["So21AVAudioPlayerDelegateP", "echoButton"]
+- !private ["So21AVAudioPlayerDelegateP", "playSound"]
+- !private ["So21AVAudioPlayerDelegateP", "print"]
+- !private ["So21AVAudioPlayerDelegateP", "rabbitButton"]
+- !private ["So21AVAudioPlayerDelegateP", "reverbButton"]
+- !private ["So21AVAudioPlayerDelegateP", "setupAudio"]
+- !private ["So21AVAudioPlayerDelegateP", "snailButton"]
+- !private ["So21AVAudioPlayerDelegateP", "stopButton"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s13BinaryIntegerP", "hashValue"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC10ButtonTypeO", "RawValue"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC10ButtonTypeO", "chipmunk"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC10ButtonTypeO", "deinit"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC10ButtonTypeO", "echo"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC10ButtonTypeO", "fast"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC10ButtonTypeO", "hashValue"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC10ButtonTypeO", "init"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC10ButtonTypeO", "rawValue"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC10ButtonTypeO", "reverb"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC10ButtonTypeO", "slow"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC10ButtonTypeO", "vader"]
+- !private ["So15CALayerDelegateP", "contentMode"]
+- !private ["So15CALayerDelegateP", "imageView"]
+- !private ["So15CALayerDelegateP", "tag"]
+- !private ["s7CVarArgP", "ButtonType"]
+- !private ["s7CVarArgP", "chipmunkButton"]
+- !private ["s7CVarArgP", "configureUI"]
+- !private ["s7CVarArgP", "contentMode"]
+- !private ["s7CVarArgP", "darthVaderButton"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "echoButton"]
+- !private ["s7CVarArgP", "hashValue"]
+- !private ["s7CVarArgP", "imageView"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "playSound"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "rabbitButton"]
+- !private ["s7CVarArgP", "reverbButton"]
+- !private ["s7CVarArgP", "setupAudio"]
+- !private ["s7CVarArgP", "snailButton"]
+- !private ["s7CVarArgP", "stopButton"]
+- !private ["s7CVarArgP", "tag"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "hashValue"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "ButtonType"]
+- !private ["s28CustomDebugStringConvertibleP", "chipmunkButton"]
+- !private ["s28CustomDebugStringConvertibleP", "configureUI"]
+- !private ["s28CustomDebugStringConvertibleP", "contentMode"]
+- !private ["s28CustomDebugStringConvertibleP", "darthVaderButton"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "echoButton"]
+- !private ["s28CustomDebugStringConvertibleP", "imageView"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "playSound"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "rabbitButton"]
+- !private ["s28CustomDebugStringConvertibleP", "reverbButton"]
+- !private ["s28CustomDebugStringConvertibleP", "setupAudio"]
+- !private ["s28CustomDebugStringConvertibleP", "snailButton"]
+- !private ["s28CustomDebugStringConvertibleP", "stopButton"]
+- !private ["s28CustomDebugStringConvertibleP", "tag"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "hashValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "hashValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "ButtonType"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "chipmunkButton"]
+- !private ["s23CustomStringConvertibleP", "configureUI"]
+- !private ["s23CustomStringConvertibleP", "contentMode"]
+- !private ["s23CustomStringConvertibleP", "darthVaderButton"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "echoButton"]
+- !private ["s23CustomStringConvertibleP", "hashValue"]
+- !private ["s23CustomStringConvertibleP", "imageView"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "playSound"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "rabbitButton"]
+- !private ["s23CustomStringConvertibleP", "reverbButton"]
+- !private ["s23CustomStringConvertibleP", "setupAudio"]
+- !private ["s23CustomStringConvertibleP", "snailButton"]
+- !private ["s23CustomStringConvertibleP", "stopButton"]
+- !private ["s23CustomStringConvertibleP", "tag"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "hashValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "hashValue"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "ButtonType"]
+- ["s9EquatableP", "RawValue"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "center"]
+- ["s9EquatableP", "chipmunk"]
+- !private ["s9EquatableP", "chipmunkButton"]
+- !private ["s9EquatableP", "configureUI"]
+- !private ["s9EquatableP", "contentMode"]
+- !private ["s9EquatableP", "darthVaderButton"]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- ["s9EquatableP", "echo"]
+- !private ["s9EquatableP", "echoButton"]
+- ["s9EquatableP", "fast"]
+- ["s9EquatableP", "hashValue"]
+- !private ["s9EquatableP", "imageView"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "notPlaying"]
+- !private ["s9EquatableP", "playSound"]
+- !private ["s9EquatableP", "playing"]
+- !private ["s9EquatableP", "print"]
+- !private ["s9EquatableP", "rabbitButton"]
+- ["s9EquatableP", "rawValue"]
+- ["s9EquatableP", "reverb"]
+- !private ["s9EquatableP", "reverbButton"]
+- !private ["s9EquatableP", "scaleAspectFit"]
+- !private ["s9EquatableP", "setupAudio"]
+- ["s9EquatableP", "slow"]
+- !private ["s9EquatableP", "snailButton"]
+- !private ["s9EquatableP", "stopButton"]
+- !private ["s9EquatableP", "tag"]
+- ["s9EquatableP", "vader"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "hashValue"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "hashValue"]
+- !private ["s8HashableP", "ButtonType"]
+- ["s8HashableP", "RawValue"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "center"]
+- ["s8HashableP", "chipmunk"]
+- !private ["s8HashableP", "chipmunkButton"]
+- !private ["s8HashableP", "configureUI"]
+- !private ["s8HashableP", "contentMode"]
+- !private ["s8HashableP", "darthVaderButton"]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- ["s8HashableP", "echo"]
+- !private ["s8HashableP", "echoButton"]
+- ["s8HashableP", "fast"]
+- ["s8HashableP", "hashValue"]
+- !private ["s8HashableP", "imageView"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "notPlaying"]
+- !private ["s8HashableP", "playSound"]
+- !private ["s8HashableP", "playing"]
+- !private ["s8HashableP", "print"]
+- !private ["s8HashableP", "rabbitButton"]
+- ["s8HashableP", "rawValue"]
+- ["s8HashableP", "reverb"]
+- !private ["s8HashableP", "reverbButton"]
+- !private ["s8HashableP", "scaleAspectFit"]
+- !private ["s8HashableP", "setupAudio"]
+- ["s8HashableP", "slow"]
+- !private ["s8HashableP", "snailButton"]
+- !private ["s8HashableP", "stopButton"]
+- !private ["s8HashableP", "tag"]
+- ["s8HashableP", "vader"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["Si", "hashValue"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "hashValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "hashValue"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "ButtonType"]
+- !private ["So8NSCodingP", "chipmunkButton"]
+- !private ["So8NSCodingP", "configureUI"]
+- !private ["So8NSCodingP", "contentMode"]
+- !private ["So8NSCodingP", "darthVaderButton"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "echoButton"]
+- !private ["So8NSCodingP", "imageView"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "playSound"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "rabbitButton"]
+- !private ["So8NSCodingP", "reverbButton"]
+- !private ["So8NSCodingP", "setupAudio"]
+- !private ["So8NSCodingP", "snailButton"]
+- !private ["So8NSCodingP", "stopButton"]
+- !private ["So8NSCodingP", "tag"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "ButtonType"]
+- !private ["So26NSExtensionRequestHandlingP", "chipmunkButton"]
+- !private ["So26NSExtensionRequestHandlingP", "configureUI"]
+- !private ["So26NSExtensionRequestHandlingP", "darthVaderButton"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "echoButton"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "playSound"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "rabbitButton"]
+- !private ["So26NSExtensionRequestHandlingP", "reverbButton"]
+- !private ["So26NSExtensionRequestHandlingP", "setupAudio"]
+- !private ["So26NSExtensionRequestHandlingP", "snailButton"]
+- !private ["So26NSExtensionRequestHandlingP", "stopButton"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "AVAudioEngine"]
+- ["So8NSObjectC", "AVAudioFile"]
+- ["So8NSObjectC", "AVAudioPlayerNode"]
+- ["So8NSObjectC", "AnyObject"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "ButtonType"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "Timer"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "URL"]
+- ["So8NSObjectC", "audioEngine"]
+- ["So8NSObjectC", "audioFile"]
+- ["So8NSObjectC", "audioPlayerNode"]
+- ["So8NSObjectC", "chipmunkButton"]
+- !private ["So8NSObjectC", "configureUI"]
+- !private ["So8NSObjectC", "contentMode"]
+- ["So8NSObjectC", "darthVaderButton"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- ["So8NSObjectC", "echoButton"]
+- !private ["So8NSObjectC", "imageView"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "playSound"]
+- ["So8NSObjectC", "playSoundForButton"]
+- !private ["So8NSObjectC", "print"]
+- ["So8NSObjectC", "rabbitButton"]
+- ["So8NSObjectC", "recordedAudioURL"]
+- ["So8NSObjectC", "reverbButton"]
+- !private ["So8NSObjectC", "setupAudio"]
+- ["So8NSObjectC", "snailButton"]
+- ["So8NSObjectC", "stopButton"]
+- ["So8NSObjectC", "stopButtonPressed"]
+- ["So8NSObjectC", "stopTimer"]
+- !private ["So8NSObjectC", "tag"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectC", "viewWillAppear"]
+- !private ["So16NSObjectProtocolP", "ButtonType"]
+- !private ["So16NSObjectProtocolP", "chipmunkButton"]
+- !private ["So16NSObjectProtocolP", "configureUI"]
+- !private ["So16NSObjectProtocolP", "contentMode"]
+- !private ["So16NSObjectProtocolP", "darthVaderButton"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "echoButton"]
+- !private ["So16NSObjectProtocolP", "imageView"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "playSound"]
+- !private ["So16NSObjectProtocolP", "print"]
+- !private ["So16NSObjectProtocolP", "rabbitButton"]
+- !private ["So16NSObjectProtocolP", "reverbButton"]
+- !private ["So16NSObjectProtocolP", "setupAudio"]
+- !private ["So16NSObjectProtocolP", "snailButton"]
+- !private ["So16NSObjectProtocolP", "stopButton"]
+- !private ["So16NSObjectProtocolP", "tag"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s7NumericP", "hashValue"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "AVAudioEngine"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "AVAudioFile"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "AVAudioPlayerNode"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "AnyObject"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "Bool"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "ButtonType"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "Int"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "Timer"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "UIButton"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "URL"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "audioEngine"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "audioFile"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "audioPlayerNode"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "chipmunkButton"]
+- !private ["13Pitch_Perfect24PlaySoundsViewControllerC", "configureUI"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "darthVaderButton"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "deinit"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "didReceiveMemoryWarning"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "echoButton"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "init"]
+- !private ["13Pitch_Perfect24PlaySoundsViewControllerC", "playSound"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "playSoundForButton"]
+- !private ["13Pitch_Perfect24PlaySoundsViewControllerC", "print"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "rabbitButton"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "recordedAudioURL"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "reverbButton"]
+- !private ["13Pitch_Perfect24PlaySoundsViewControllerC", "setupAudio"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "snailButton"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "stopButton"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "stopButtonPressed"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "stopTimer"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "viewDidLoad"]
+- ["13Pitch_Perfect24PlaySoundsViewControllerC", "viewWillAppear"]
+- !private ["13Pitch_Perfect24PlaySoundsViewControllerC12PlayingStateO", "notPlaying"]
+- !private ["13Pitch_Perfect24PlaySoundsViewControllerC12PlayingStateO", "playing"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- ["s16RawRepresentableP", "RawValue"]
+- !private ["s16RawRepresentableP", "center"]
+- ["s16RawRepresentableP", "chipmunk"]
+- ["s16RawRepresentableP", "echo"]
+- ["s16RawRepresentableP", "fast"]
+- ["s16RawRepresentableP", "hashValue"]
+- ["s16RawRepresentableP", "init"]
+- ["s16RawRepresentableP", "rawValue"]
+- ["s16RawRepresentableP", "reverb"]
+- !private ["s16RawRepresentableP", "scaleAspectFit"]
+- ["s16RawRepresentableP", "slow"]
+- ["s16RawRepresentableP", "vader"]
+- ["s16RawRepresentableP", ""]
+- !private ["s8SequenceP", "init"]
+- !private ["s13SignedIntegerP", "hashValue"]
+- !private ["s13SignedNumericP", "hashValue"]
+- !private ["s10StrideableP", "hashValue"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "contentMode"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "imageView"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "tag"]
+- !private ["So29UIAccessibilityIdentificationP", "contentMode"]
+- !private ["So29UIAccessibilityIdentificationP", "imageView"]
+- !private ["So29UIAccessibilityIdentificationP", "tag"]
+- !private ["So12UIAppearanceP", "contentMode"]
+- !private ["So12UIAppearanceP", "imageView"]
+- !private ["So12UIAppearanceP", "tag"]
+- !private ["So21UIAppearanceContainerP", "ButtonType"]
+- !private ["So21UIAppearanceContainerP", "chipmunkButton"]
+- !private ["So21UIAppearanceContainerP", "configureUI"]
+- !private ["So21UIAppearanceContainerP", "contentMode"]
+- !private ["So21UIAppearanceContainerP", "darthVaderButton"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "echoButton"]
+- !private ["So21UIAppearanceContainerP", "imageView"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "playSound"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "rabbitButton"]
+- !private ["So21UIAppearanceContainerP", "reverbButton"]
+- !private ["So21UIAppearanceContainerP", "setupAudio"]
+- !private ["So21UIAppearanceContainerP", "snailButton"]
+- !private ["So21UIAppearanceContainerP", "stopButton"]
+- !private ["So21UIAppearanceContainerP", "tag"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So8UIButtonC", "contentMode"]
+- !private ["So8UIButtonC", "imageView"]
+- !private ["So8UIButtonC", "tag"]
+- !private ["So18UIContentContainerP", "ButtonType"]
+- !private ["So18UIContentContainerP", "chipmunkButton"]
+- !private ["So18UIContentContainerP", "configureUI"]
+- !private ["So18UIContentContainerP", "darthVaderButton"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "echoButton"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "playSound"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "rabbitButton"]
+- !private ["So18UIContentContainerP", "reverbButton"]
+- !private ["So18UIContentContainerP", "setupAudio"]
+- !private ["So18UIContentContainerP", "snailButton"]
+- !private ["So18UIContentContainerP", "stopButton"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So9UIControlC", "contentMode"]
+- !private ["So9UIControlC", "imageView"]
+- !private ["So9UIControlC", "tag"]
+- !private ["So17UICoordinateSpaceP", "contentMode"]
+- !private ["So17UICoordinateSpaceP", "imageView"]
+- !private ["So17UICoordinateSpaceP", "tag"]
+- !private ["So13UIDynamicItemP", "contentMode"]
+- !private ["So13UIDynamicItemP", "imageView"]
+- !private ["So13UIDynamicItemP", "tag"]
+- !private ["So18UIFocusEnvironmentP", "ButtonType"]
+- !private ["So18UIFocusEnvironmentP", "chipmunkButton"]
+- !private ["So18UIFocusEnvironmentP", "configureUI"]
+- !private ["So18UIFocusEnvironmentP", "contentMode"]
+- !private ["So18UIFocusEnvironmentP", "darthVaderButton"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "echoButton"]
+- !private ["So18UIFocusEnvironmentP", "imageView"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "playSound"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "rabbitButton"]
+- !private ["So18UIFocusEnvironmentP", "reverbButton"]
+- !private ["So18UIFocusEnvironmentP", "setupAudio"]
+- !private ["So18UIFocusEnvironmentP", "snailButton"]
+- !private ["So18UIFocusEnvironmentP", "stopButton"]
+- !private ["So18UIFocusEnvironmentP", "tag"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "contentMode"]
+- !private ["So11UIFocusItemP", "imageView"]
+- !private ["So11UIFocusItemP", "tag"]
+- !private ["So11UIImageViewC", "contentMode"]
+- !private ["So30UIPasteConfigurationSupportingP", "ButtonType"]
+- !private ["So30UIPasteConfigurationSupportingP", "chipmunkButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "configureUI"]
+- !private ["So30UIPasteConfigurationSupportingP", "contentMode"]
+- !private ["So30UIPasteConfigurationSupportingP", "darthVaderButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "echoButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "imageView"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "playSound"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "rabbitButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "reverbButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "setupAudio"]
+- !private ["So30UIPasteConfigurationSupportingP", "snailButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "stopButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "tag"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So11UIResponderC", "AVAudioEngine"]
+- ["So11UIResponderC", "AVAudioFile"]
+- ["So11UIResponderC", "AVAudioPlayerNode"]
+- ["So11UIResponderC", "AnyObject"]
+- ["So11UIResponderC", "Bool"]
+- !private ["So11UIResponderC", "ButtonType"]
+- ["So11UIResponderC", "Int"]
+- ["So11UIResponderC", "Timer"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "URL"]
+- ["So11UIResponderC", "audioEngine"]
+- ["So11UIResponderC", "audioFile"]
+- ["So11UIResponderC", "audioPlayerNode"]
+- ["So11UIResponderC", "chipmunkButton"]
+- !private ["So11UIResponderC", "configureUI"]
+- !private ["So11UIResponderC", "contentMode"]
+- ["So11UIResponderC", "darthVaderButton"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- ["So11UIResponderC", "echoButton"]
+- !private ["So11UIResponderC", "imageView"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "playSound"]
+- ["So11UIResponderC", "playSoundForButton"]
+- !private ["So11UIResponderC", "print"]
+- ["So11UIResponderC", "rabbitButton"]
+- ["So11UIResponderC", "recordedAudioURL"]
+- ["So11UIResponderC", "reverbButton"]
+- !private ["So11UIResponderC", "setupAudio"]
+- ["So11UIResponderC", "snailButton"]
+- ["So11UIResponderC", "stopButton"]
+- ["So11UIResponderC", "stopButtonPressed"]
+- ["So11UIResponderC", "stopTimer"]
+- !private ["So11UIResponderC", "tag"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So11UIResponderC", "viewWillAppear"]
+- !private ["So30UIResponderStandardEditActionsP", "ButtonType"]
+- !private ["So30UIResponderStandardEditActionsP", "chipmunkButton"]
+- !private ["So30UIResponderStandardEditActionsP", "configureUI"]
+- !private ["So30UIResponderStandardEditActionsP", "contentMode"]
+- !private ["So30UIResponderStandardEditActionsP", "darthVaderButton"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "echoButton"]
+- !private ["So30UIResponderStandardEditActionsP", "imageView"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "playSound"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "rabbitButton"]
+- !private ["So30UIResponderStandardEditActionsP", "reverbButton"]
+- !private ["So30UIResponderStandardEditActionsP", "setupAudio"]
+- !private ["So30UIResponderStandardEditActionsP", "snailButton"]
+- !private ["So30UIResponderStandardEditActionsP", "stopButton"]
+- !private ["So30UIResponderStandardEditActionsP", "tag"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So35UISpringLoadedInteractionSupportingP", "contentMode"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "imageView"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "tag"]
+- !private ["So16UIStateRestoringP", "ButtonType"]
+- !private ["So16UIStateRestoringP", "chipmunkButton"]
+- !private ["So16UIStateRestoringP", "configureUI"]
+- !private ["So16UIStateRestoringP", "darthVaderButton"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "echoButton"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "playSound"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "rabbitButton"]
+- !private ["So16UIStateRestoringP", "reverbButton"]
+- !private ["So16UIStateRestoringP", "setupAudio"]
+- !private ["So16UIStateRestoringP", "snailButton"]
+- !private ["So16UIStateRestoringP", "stopButton"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So18UITraitEnvironmentP", "ButtonType"]
+- !private ["So18UITraitEnvironmentP", "chipmunkButton"]
+- !private ["So18UITraitEnvironmentP", "configureUI"]
+- !private ["So18UITraitEnvironmentP", "contentMode"]
+- !private ["So18UITraitEnvironmentP", "darthVaderButton"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "echoButton"]
+- !private ["So18UITraitEnvironmentP", "imageView"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "playSound"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "rabbitButton"]
+- !private ["So18UITraitEnvironmentP", "reverbButton"]
+- !private ["So18UITraitEnvironmentP", "setupAudio"]
+- !private ["So18UITraitEnvironmentP", "snailButton"]
+- !private ["So18UITraitEnvironmentP", "stopButton"]
+- !private ["So18UITraitEnvironmentP", "tag"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "contentMode"]
+- !private ["So6UIViewC", "imageView"]
+- !private ["So6UIViewC", "tag"]
+- !private ["SC17UIViewContentModeO", "center"]
+- !private ["SC17UIViewContentModeO", "scaleAspectFit"]
+- ["So16UIViewControllerC", "AVAudioEngine"]
+- ["So16UIViewControllerC", "AVAudioFile"]
+- ["So16UIViewControllerC", "AVAudioPlayerNode"]
+- ["So16UIViewControllerC", "AnyObject"]
+- ["So16UIViewControllerC", "Bool"]
+- !private ["So16UIViewControllerC", "ButtonType"]
+- ["So16UIViewControllerC", "Int"]
+- ["So16UIViewControllerC", "Timer"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "URL"]
+- ["So16UIViewControllerC", "audioEngine"]
+- ["So16UIViewControllerC", "audioFile"]
+- ["So16UIViewControllerC", "audioPlayerNode"]
+- ["So16UIViewControllerC", "chipmunkButton"]
+- !private ["So16UIViewControllerC", "configureUI"]
+- ["So16UIViewControllerC", "darthVaderButton"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "echoButton"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "playSound"]
+- ["So16UIViewControllerC", "playSoundForButton"]
+- !private ["So16UIViewControllerC", "print"]
+- ["So16UIViewControllerC", "rabbitButton"]
+- ["So16UIViewControllerC", "recordedAudioURL"]
+- ["So16UIViewControllerC", "reverbButton"]
+- !private ["So16UIViewControllerC", "setupAudio"]
+- ["So16UIViewControllerC", "snailButton"]
+- ["So16UIViewControllerC", "stopButton"]
+- ["So16UIViewControllerC", "stopButtonPressed"]
+- ["So16UIViewControllerC", "stopTimer"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", "viewWillAppear"]
+- ["So16UIViewControllerC", ""]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s18_BitwiseOperationsP", "hashValue"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "contentMode"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "imageView"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "tag"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "hashValue"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ButtonType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "chipmunkButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "configureUI"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contentMode"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "darthVaderButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "echoButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imageView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "playSound"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rabbitButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "reverbButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setupAudio"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "snailButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "stopButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tag"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "hashValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s11_StrideableP", "hashValue"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "So21AVAudioPlayerDelegateP"
+- !private "s23BidirectionalCollectionP"
+- !private "s13BinaryIntegerP"
+- !private "Sb"
+- "13Pitch_Perfect24PlaySoundsViewControllerC10ButtonTypeO"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "s8HashableP"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s7NumericP"
+- "13Pitch_Perfect24PlaySoundsViewControllerC"
+- !private "13Pitch_Perfect24PlaySoundsViewControllerC12PlayingStateO"
+- !private "s26RangeReplaceableCollectionP"
+- "s16RawRepresentableP"
+- !private "s8SequenceP"
+- !private "s13SignedIntegerP"
+- !private "s13SignedNumericP"
+- !private "s10StrideableP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- "So18UIContentContainerP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So11UIImageViewC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- !private "SC17UIViewContentModeO"
+- "So16UIViewControllerC"
+- !private "s23_BidirectionalIndexableP"
+- !private "s18_BitwiseOperationsP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s11_StrideableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+interface-hash: "658da897eebb42979ab9861533efd5cb"

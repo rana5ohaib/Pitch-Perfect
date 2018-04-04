@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "630b4db9dbfa6e866c0986e1b6815fe2"
+build_time: [1522836431, 122049000]
+inputs:
+  "/Users/ranasohaib/Documents/Sohaib/iOS-Udacity/Pitch Perfect/Pitch Perfect/RecordSoundsViewController.swift": [1509655240, 0]
+  "/Users/ranasohaib/Documents/Sohaib/iOS-Udacity/Pitch Perfect/Pitch Perfect/PlaySoundsViewController+Audio.swift": [1509994719, 0]
+  "/Users/ranasohaib/Documents/Sohaib/iOS-Udacity/Pitch Perfect/Pitch Perfect/PlaySoundsViewController.swift": [1509994964, 0]
+  "/Users/ranasohaib/Documents/Sohaib/iOS-Udacity/Pitch Perfect/Pitch Perfect/AppDelegate.swift": [1507653794, 0]
